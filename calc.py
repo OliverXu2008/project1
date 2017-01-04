@@ -1,13 +1,15 @@
 def add(x, y):
     pass
 
-def sub(x, y):
+def subtract(x, y):
     pass
 
-def multiple(x, y):
+def multiply(x, y):
     pass
 
 def divide(x, y):
     pass
 
+def square(x):
+    pass
 
