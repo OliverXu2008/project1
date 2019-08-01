@@ -9,3 +9,7 @@ Sample text to show the Test-branch
 
 # Updates from dev 2 for feature 1
 Added text for feature 1 updates
+
+# updates from dev3 for test-branch
+Another text change to show the test-branch
+
