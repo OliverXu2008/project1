@@ -1,1 +1,8 @@
+# Sample
 test text for git - 1st git test.
+
+# Copyright
+CopyRight Reserved
+
+# Updates from dev 1
+Sample text to show the Test-branch
